@@ -5,8 +5,8 @@ public class HappyB20 {
         
         System.out.println("Hello hello how are you");
         
-        for (int i = 0; i <= 5; i ++i){
-            System.out.println("*****");
+        for (int i = 0; i <= 3; i++){
+            System.out.println("* * * * *");
             
         }
     }
