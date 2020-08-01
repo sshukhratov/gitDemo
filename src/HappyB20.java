@@ -4,6 +4,5 @@ public class HappyB20 {
         System.out.println(name);
         
         System.out.println("Hello hello how are you");
-        System.out.println("Google");
     }
 }
