@@ -4,6 +4,15 @@ public class HelloB20 {
 
         // added a line
 
+        String name = "rodraS";
+        String reverse = "";
+        for (int i = name.length()-1; 0 <= i; i--){
+            char each = name.charAt(i);
+            reverse += each;
+        }
+
+        System.out.println(reverse);
+
 
     }
 }
