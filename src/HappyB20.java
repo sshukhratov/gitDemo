@@ -3,6 +3,7 @@ public class HappyB20 {
         String name = "Batch20";
         System.out.println(name);
         
-        System.out.println("Hello hello");
+        System.out.println("Hello hello how are you");
+        System.out.println("Google");
     }
 }
